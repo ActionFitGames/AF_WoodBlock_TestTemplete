@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localize Table_ja-JP
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ja-JP
+  m_SharedData: {fileID: 11400000, guid: dd8551ff6f2784703a822117adb45e54, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 54898188288
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153736962048
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204001501184
+    m_Localized: New Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241666351104
+    m_Localized: Best Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410130571264
+    m_Localized: Great!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 462412570624
+    m_Localized: Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568650096640
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789467619328
+    m_Localized: Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662304710656
+    m_Localized: BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745205129216
+    m_Localized: SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757913870336
+    m_Localized: Vibe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21922791284736
+    m_Localized: No Space Left...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50230379667456
+    m_Localized: CONTACT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52362369556480
+    m_Localized: Setting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753981444841472
+    m_Localized: Cheer Up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754038072139776
+    m_Localized: Thank you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089879235616768
+    m_Localized: Record Board
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092143127977984
+    m_Localized: First Visit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092150170214400
+    m_Localized: Daily Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111243577352192
+    m_Localized: Weekly Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111446304841728
+    m_Localized: Monthly Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111636667523072
+    m_Localized: All Time Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1185581060055040
+    m_Localized: Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15392039272177664
+    m_Localized: Wood Block
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17476645081309184
+    m_Localized: '*Rewarded ads are not removed.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17476642992545792
+    m_Localized: Ads Remove
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,17 @@
+DP.png
+size:512,512
+filter:Linear,Linear
+pma:true
+scale:0.5
+Score_txt
+bounds:178,401,218,69
+crown
+bounds:2,2,88,70
+offsets:0,0,89,70
+leaf
+bounds:2,74,221,97
+offsets:1,1,222,98
+rotate:90
+light
+bounds:2,297,174,173
+offsets:3,3,178,179

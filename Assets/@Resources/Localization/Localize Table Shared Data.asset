@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Localize Table Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Localize Table
+  m_TableCollectionNameGuidString: dd8551ff6f2784703a822117adb45e54
+  m_Entries:
+  - m_Id: 54898188288
+    m_Key: UI_Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 153736962048
+    m_Key: UI_Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 204001501184
+    m_Key: UI_NewGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 241666351104
+    m_Key: UI_Result_BestScore
+    m_Metadata:
+      m_Items: []
+  - m_Id: 410130571264
+    m_Key: UI_Result_Great
+    m_Metadata:
+      m_Items: []
+  - m_Id: 462412570624
+    m_Key: Game_Combo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 568650096640
+    m_Key: UI_Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 662304710656
+    m_Key: UI_Setting_BGM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 745205129216
+    m_Key: UI_Setting_SFX
+    m_Metadata:
+      m_Items: []
+  - m_Id: 757913870336
+    m_Key: UI_Setting_VIBE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 789467619328
+    m_Key: UI_Setting_Record
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21922791284736
+    m_Key: UI_NoSpace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50230379667456
+    m_Key: UI_Setting_Contact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 52362369556480
+    m_Key: UI_Setting_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 753981444841472
+    m_Key: UI_Rating_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 754038072139776
+    m_Key: UI_Rating_Button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1089879235616768
+    m_Key: UI_AdRemove
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092143127977984
+    m_Key: UI_Archive_FirstVisit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1092150170214400
+    m_Key: UI_Archive_DailyBest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111243577352192
+    m_Key: UI_Archive_WeeklyBest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111446304841728
+    m_Key: UI_Archive_MonthlyBest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1111636667523072
+    m_Key: UI_Archive_AllTimeBest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1185581060055040
+    m_Key: UI_Loading
+    m_Metadata:
+      m_Items: []
+  - m_Id: 15392039272177664
+    m_Key: app_name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17476642992545792
+    m_Key: UI_AdRemove_Title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 17476645081309184
+    m_Key: UI_AdRemove_Dcscription
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5673939761139810791
+  references:
+    version: 2
+    RefIds:
+    - rid: 5673939761139810791
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1751946415792

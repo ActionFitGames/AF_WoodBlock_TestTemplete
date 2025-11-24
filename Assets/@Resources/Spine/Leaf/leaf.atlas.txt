@@ -1,0 +1,14 @@
+leaf.png
+size:256,256
+filter:Linear,Linear
+pma:true
+scale:0.5
+LeafLB
+bounds:2,2,83,78
+offsets:2,2,87,82
+LeafLF
+bounds:2,82,105,147
+offsets:3,0,108,151
+LeafR
+bounds:109,96,113,133
+offsets:2,2,117,135
